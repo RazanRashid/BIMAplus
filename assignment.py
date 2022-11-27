@@ -1,4 +1,4 @@
-import math 
+
 #number of polygon points
 n = int(input("Enter the number of polygon points: "))
 if n < 3:
